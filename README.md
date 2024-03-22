@@ -1,7 +1,14 @@
 ### Hi there 👋
 💫 About Me:
-Hello, I am Mann Vora currently pursuing MS in CS at Arizona State University. I love creating <br>new projects and explore tech stacks. <br><br>I am currently working on Web 3 and Machine Learning. <br><br>Fun fact about me:-<br>I am a crazy fan of playing chess and reading books. <br><br>Wanna play a game? Connect with me here :-  https://www.chess.com/member/mannvora 
+👋 Hey! I'm Mann Vora, a tech enthusiast.
 
+🎓 Currently pursuing my Master's in Computer Science at ASU, I've been into coding since my Bachelor's days at Gujarat Technological University.
+
+💡 Skilled in Web3, JavaScript, C/C++, Python, and always up for a challenge, I'm here to help with your coding puzzles! Need a hand? Consider me your friendly coding companion.
+
+📚 When I'm not coding, you'll find me lost in a good book or plotting my next chess move. Because hey, a little downtime is essential, right?
+
+📫 Want to chat about tech, books, or challenge me to a game of chess? Drop me a line at mannvora19683@gmail.com. Let's connect and conquer the digital world together—one line of code at a time! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mannvora19683) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mann_Vora1729) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mann Vora) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mann19683) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mann Vora) 
