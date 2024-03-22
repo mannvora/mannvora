@@ -19,6 +19,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/mann19683/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mann19683)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Mann-Vora)
+[![Chess.com](https://img.shields.io/badge/Chess.com-%2300A0FF.svg?logo=Chess.com&logoColor=white)](https://www.chess.com/member/mannvora)
+
 
 
 # 💻 Tech Stack:
