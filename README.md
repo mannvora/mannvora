@@ -20,7 +20,6 @@ Hello, I am Mann Vora currently pursuing MS in CS at Arizona State University. I
 [![](https://visitcount.itsvg.in/api?id=mannvora&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Connect with me through linkedin (https://www.linkedin.com/in/mannvora/) and chess.com.
+- 😄 Pronouns: He/Him
 -->
