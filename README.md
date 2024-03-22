@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about ...# 💫 About Me:
+💫 About Me:
 Hello, I am Mann Vora currently pursuing MS in CS at Arizona State University. I love creating <br>new projects and explore tech stacks. <br><br>I am currently working on Web 3 and Machine Learning. <br><br>Fun fact about me:-<br>I am a crazy fan of playing chess and reading books. <br><br>Wanna play a game? Connect with me here :-  https://www.chess.com/member/mannvora 
 
 
