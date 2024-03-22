@@ -1,5 +1,6 @@
 ### Hi there 👋
 💫 About Me:
+</br></br>
 👋 Hey! I'm Mann Vora, a tech enthusiast.
 
 🎓 Currently pursuing my Master's in Computer Science at ASU, I've been into coding since my Bachelor's days at Gujarat Technological University.
