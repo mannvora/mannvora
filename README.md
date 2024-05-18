@@ -5,7 +5,7 @@
 
 🎓 Currently pursuing my Master's in Computer Science at ASU, I've been into coding since my Bachelor's days at Gujarat Technological University.
 
-💡 Skilled in Web3, JavaScript, C/C++, Python, and always up for a challenge, I'm here to help with your coding puzzles! Need a hand? Consider me your friendly coding companion.
+💡 Skilled in DSA, JavaScript, C/C++, Python, and always up for a challenge, I'm here to help with your coding puzzles! Need a hand? Consider me your friendly coding companion.
 
 📚 When I'm not coding, you'll find me lost in a good book or plotting my next chess move. Because hey, a little downtime is essential, right?
 
