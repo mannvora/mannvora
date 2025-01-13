@@ -11,6 +11,8 @@
 
 📫 Want to chat about tech, books, or challenge me to a game of chess? Drop me a line at mannvora19683@gmail.com. Let's connect and conquer the digital world together—one line of code at a time! 🚀
 
+Portfolio: https://mann-vora-portfolio.vercel.app/
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mannvora19683) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mann_Vora1729) 
